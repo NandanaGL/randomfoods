@@ -51,7 +51,7 @@ https://randomfoods-vx41.vercel.app/
 ## Team Contributions
 - [MUHAMMED AZAR NK]: [FRONT END WORKS]
 - [FASEELA RAHMATH]: [FRONT END WORKS]
-- [NANDANA GL]: [GITHUB]
+- [NANDANA GL]: [GITHUB CONTRIBUTION]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
