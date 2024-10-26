@@ -28,8 +28,6 @@ For Software:
 - CSS
 - JAVASCRIPT
 
-
-
 ### Implementation
 For Software:
 # Run
@@ -48,12 +46,12 @@ https://drive.google.com/file/d/1E7VPbrxbjOEuJfT_FuXru8k-z8C-6XLl/view?usp=shari
 In this video, it shows our webpage where when the click the option 'Get Random Food Date' it gives us random food options to eat on random days
 
 # Additional Demos
-[Add any extra demo materials/links]
+https://randomfoods-vx41.vercel.app/
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [MUHAMMED AZAR NK]: [FRONT END WORKS]
+- [FASEELA RAHMATH]: [FRONT END WORKS]
+- [NANDANA GL]: [GITHUB]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
